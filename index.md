@@ -9,34 +9,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="profile" href="//gmpg.org/xfn/11">
-    <title>Freelancer de Marketing Digital | Filipe Vilaça</title>
+    <title>Freelancer de Marketing Digital | Filipe Vilaça | Filipe Vilaça - Freelancer de Marketing Digital</title>
 
 		<!-- All in One SEO 4.1.3.3 -->
-		<link rel="canonical" href="/">
+		<link rel="canonical" href="/lp-marketing-digital/">
 		<meta property="og:site_name" content="Filipe Vilaça - Freelancer de Marketing Digital">
 		<meta property="og:type" content="article">
-		<meta property="og:title" content="Freelancer de Marketing Digital | Filipe Vilaça">
-		<meta property="og:url" content="https://filipevilaca.pt/">
-		<meta property="og:image" content="https://filipevilaca.pt/wp-content/uploads/2021/05/horizontal-2000px.png">
-		<meta property="og:image:secure_url" content="https://filipevilaca.pt/wp-content/uploads/2021/05/horizontal-2000px.png">
+		<meta property="og:title" content="Freelancer de Marketing Digital | Filipe Vilaça | Filipe Vilaça - Freelancer de Marketing Digital">
+		<meta property="og:url" content="/lp-marketing-digital/">
+		<meta property="og:image" content="/wp-content/uploads/2021/05/horizontal-2000px.png">
+		<meta property="og:image:secure_url" content="/wp-content/uploads/2021/05/horizontal-2000px.png">
 		<meta property="og:image:width" content="2000">
 		<meta property="og:image:height" content="437">
-		<meta property="article:published_time" content="2017-06-19T05:41:37Z">
-		<meta property="article:modified_time" content="2021-08-10T11:14:51Z">
+		<meta property="article:published_time" content="2021-09-07T13:51:04Z">
+		<meta property="article:modified_time" content="2021-09-09T09:23:40Z">
 		<meta property="article:publisher" content="https://www.facebook.com/filipevilaca.pt">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:domain" content="filipevilaca.pt">
-		<meta name="twitter:title" content="Freelancer de Marketing Digital | Filipe Vilaça">
-		<meta name="twitter:image" content="https://filipevilaca.pt/wp-content/uploads/2021/05/horizontal-2000px.png">
+		<meta name="twitter:title" content="Freelancer de Marketing Digital | Filipe Vilaça | Filipe Vilaça - Freelancer de Marketing Digital">
+		<meta name="twitter:image" content="/wp-content/uploads/2021/05/horizontal-2000px.png">
 		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/filipevilaca.pt\/#website","url":"https:\/\/filipevilaca.pt\/","name":"Filipe Vilaça - Freelancer de Marketing Digital","description":"Freelancer de Marketing Digital","publisher":{"@id":"https:\/\/filipevilaca.pt\/#person"},"potentialAction":{"@type":"SearchAction","target":"https:\/\/filipevilaca.pt\/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"Person","@id":"https:\/\/filipevilaca.pt\/#person","name":"Filipe Vilaça - Freelancer de Marketing Digital","image":"https:\/\/filipevilaca.pt\/wp-content\/uploads\/2021\/05\/horizontal-2000px.png","sameAs":["https:\/\/www.facebook.com\/filipevilaca.pt","https:\/\/www.pinterest.pt\/filipevilacapt","https:\/\/www.linkedin.com\/in\/filipevilaca\/"]},{"@type":"BreadcrumbList","@id":"https:\/\/filipevilaca.pt\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/filipevilaca.pt\/#listItem","position":"1","item":{"@type":"WebPage","@id":"https:\/\/filipevilaca.pt\/","name":"Início","description":"Freelancer de Marketing Digital","url":"https:\/\/filipevilaca.pt\/"}}]},{"@type":"WebPage","@id":"https:\/\/filipevilaca.pt\/#webpage","url":"https:\/\/filipevilaca.pt\/","name":"Freelancer de Marketing Digital | Filipe Vilaça","inLanguage":"pt-PT","isPartOf":{"@id":"https:\/\/filipevilaca.pt\/#website"},"breadcrumb":{"@id":"https:\/\/filipevilaca.pt\/#breadcrumblist"},"datePublished":"2017-06-19T05:41:37+00:00","dateModified":"2021-08-10T11:14:51+00:00"}]}
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"\/#website","url":"\/","name":"Filipe Vilaça - Freelancer de Marketing Digital","description":"Freelancer de Marketing Digital","publisher":{"@id":"\/#person"}},{"@type":"Person","@id":"\/#person","name":"Filipe Vilaça - Freelancer de Marketing Digital","image":"\/wp-content\/uploads\/2021\/05\/horizontal-2000px.png","sameAs":["https:\/\/www.facebook.com\/filipevilaca.pt","https:\/\/www.pinterest.pt\/filipevilacapt","https:\/\/www.linkedin.com\/in\/filipevilaca\/"]},{"@type":"BreadcrumbList","@id":"\/lp-marketing-digital\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"\/#listItem","position":"1","item":{"@type":"WebPage","@id":"\/","name":"Início","description":"Freelancer de Marketing Digital","url":"\/"},"nextItem":"\/lp-marketing-digital\/#listItem"},{"@type":"ListItem","@id":"\/lp-marketing-digital\/#listItem","position":"2","item":{"@type":"WebPage","@id":"\/lp-marketing-digital\/","name":"Freelancer de Marketing Digital | Filipe Vilaça","url":"\/lp-marketing-digital\/"},"previousItem":"\/#listItem"}]},{"@type":"WebPage","@id":"\/lp-marketing-digital\/#webpage","url":"\/lp-marketing-digital\/","name":"Freelancer de Marketing Digital | Filipe Vilaça | Filipe Vilaça - Freelancer de Marketing Digital","inLanguage":"pt-PT","isPartOf":{"@id":"\/#website"},"breadcrumb":{"@id":"\/lp-marketing-digital\/#breadcrumblist"},"datePublished":"2021-09-07T13:51:04+00:00","dateModified":"2021-09-09T09:23:40+00:00"}]}
 		</script>
 		<!-- All in One SEO -->
 
+<link rel="dns-prefetch" href="//www.google.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="alternate" type="application/rss+xml" title="Filipe Vilaça - Freelancer de Marketing Digital &raquo; Feed" href="/feed/">
 <link rel="alternate" type="application/rss+xml" title="Filipe Vilaça - Freelancer de Marketing Digital &raquo; Feed de comentários" href="/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Feed de comentários de Filipe Vilaça - Freelancer de Marketing Digital &raquo; Inicio" href="/home/feed/">
 
 
 
@@ -502,34 +502,32 @@ display: none;
 <style id="fw-shortcode-home-page-first-inline-css" type="text/css">#home_content_88220650fb91c75e6e8692a9120c7ff0 .home-photo .hp-inner {
                 background-image: url(/wp-content/uploads/2021/04/filipevilaca-freelancermktdigital.png);
             }</style>
-<link rel="stylesheet" href="/wp-content/cache/minify/cead0.css" media="all">
-
+<link rel="stylesheet" href="/wp-content/cache/minify/f4fdb.css" media="all">
 
 <link rel="stylesheet" id="leven-google-fonts-css" href="https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" type="text/css" media="all">
 <script src="/wp-content/cache/minify/818c0.js"></script>
 
 
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/1160">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/2225">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 5.8">
-<link rel="shortlink" href="/">
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F">
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F&#038;format=xml">
+<link rel="shortlink" href="/?p=2225">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Flp-marketing-digital%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Flp-marketing-digital%2F&#038;format=xml">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW96J5H');</script>
-<!-- End Google Tag Manager --><link rel="pingback" href="/xmlrpc.php">
-<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- End Google Tag Manager --><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <!-- Schema & Structured Data For WP v1.9.83.1 - -->
 <script type="application/ld+json" class="saswp-schema-markup-output">
-[{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/filipevilaca.pt\/#Top Nav","name":"Início","url":"https:\/\/filipevilaca.pt\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/filipevilaca.pt\/#Top Nav","name":"Sobre","url":"https:\/\/filipevilaca.pt\/sobre\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/filipevilaca.pt\/#Top Nav","name":"Contacto","url":"https:\/\/filipevilaca.pt\/contacto\/"}]},
+[{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"\/#Top Nav","name":"Início","url":"\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"\/#Top Nav","name":"Sobre","url":"\/sobre\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"\/#Top Nav","name":"Contacto","url":"\/contacto\/"}]},
 
-{"@context":"https:\/\/schema.org","@type":"Person","@id":"https:\/\/filipevilaca.pt#Person","name":"Filipe Vilaça","jobTitle":"Freelancer de Marketing Digital","url":"https:\/\/filipevilaca.pt","sameAs":["https:\/\/www.facebook.com\/filipevilaca.pt","https:\/\/www.linkedin.com\/in\/filipevilaca\/"],"image":{"@type":"ImageObject","url":"https:\/\/filipevilaca.pt\/wp-content\/uploads\/2021\/04\/filipevilaca-freelancermktdigital.png","width":"457","height":"546"},"telephone":""}]
+{"@context":"https:\/\/schema.org","@type":"WebPage","@id":"\/lp-marketing-digital\/#webpage","name":"Freelancer de Marketing Digital | Filipe Vilaça","url":"\/lp-marketing-digital\/","lastReviewed":"2021-09-09T09:23:40+00:00","inLanguage":"pt-PT","description":"","mainEntity":{"@type":"Article","mainEntityOfPage":"\/lp-marketing-digital\/","headline":"Freelancer de Marketing Digital | Filipe Vilaça","description":"","keywords":"","datePublished":"2021-09-07T13:51:04+00:00","dateModified":"2021-09-09T09:23:40+00:00","author":{"@type":"Person","name":"Filipe Vilaça","description":"","url":"\/author\/filipevilaca\/","sameAs":[],"image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/2120e599f71915ecef1fa27b5c2eeebb?s=96&d=mm&r=g","height":96,"width":96}},"publisher":{"@type":"Organization","name":"Filipe Vilaça – Freelancer de Marketing Digital","url":"","logo":{"@type":"ImageObject","url":"\/wp-content\/uploads\/2021\/05\/horizontal-2000px.png","width":"2000","height":"437"}},"image":{"@type":"ImageObject","@id":"\/lp-marketing-digital\/#primaryimage","url":"\/wp-content\/uploads\/2021\/05\/horizontal-2000px.png","width":"2000","height":"437"}},"reviewedBy":{"@type":"Organization","name":"Filipe Vilaça – Freelancer de Marketing Digital","url":"","logo":{"@type":"ImageObject","url":"\/wp-content\/uploads\/2021\/05\/horizontal-2000px.png","width":"2000","height":"437"}}}]
 </script>
 
 <style type="text/css">.broken_link, a.broken_link {
@@ -538,7 +536,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="icon" href="/wp-content/uploads/2021/05/cropped-browserlogotab-1-32x32.png" sizes="32x32">
 <link rel="icon" href="/wp-content/uploads/2021/05/cropped-browserlogotab-1-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/wp-content/uploads/2021/05/cropped-browserlogotab-1-180x180.png">
-<meta name="msapplication-TileImage" content="https://filipevilaca.pt/wp-content/uploads/2021/05/cropped-browserlogotab-1-270x270.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2021/05/cropped-browserlogotab-1-270x270.png">
 		<style type="text/css" id="wp-custom-css">@media screen and (max-width: 1400px)  {
 	.home-text h1 {
     font-size: 38px;
@@ -598,7 +596,7 @@ display: none;
 }</style>
 		</head>
 
-<body class="home page-template-default page page-id-1160 wp-embed-responsive masthead-fixed full-width grid">
+<body class="page-template-default page page-id-2225 wp-embed-responsive masthead-fixed full-width singular">
 
 
 <!-- Loading animation -->
@@ -621,7 +619,7 @@ display: none;
             <div class="header-content clearfix">
                                 <div class="header-image">
                     <a href="/">
-                        <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://filipevilaca.pt/wp-content/uploads/2021/05/logo1.png" alt="logo freelance de marketing digital">
+                        <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="/wp-content/uploads/2021/05/logo1.png" alt="logo freelance de marketing digital">
                     </a>
                 </div>
                 
@@ -636,7 +634,7 @@ display: none;
                 <!-- Navigation -->
                 <div class="site-nav mobile-menu-hide">
                     <ul id="menu-menu" class="leven-classic-menu site-main-menu">
-<li id="menu-item-1257" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1257"><a href="/" aria-current="page" data-hover="1">Início</a></li>
+<li id="menu-item-1257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1257"><a href="/" data-hover="1">Início</a></li>
 <li id="menu-item-1652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1652"><a href="/sobre/" data-hover="1">Sobre</a></li>
 <li id="menu-item-1650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1650"><a href="/criacao-de-sites-no-porto/" data-hover="1">Criação de Sites no Porto</a></li>
 <li id="menu-item-1258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1258">
@@ -667,7 +665,7 @@ display: none;
                         
             <div id="content" class="page-content site-content single-post" role="main">
                 
-<article id="post-1160" class="post-1160 page type-page status-publish hentry">
+<article id="post-2225" class="post-2225 page type-page status-publish hentry">
 	<div class="entry-content">
 		<div class="fw-page-builder-content">
 <section class="fw-main-row ">
@@ -676,7 +674,7 @@ display: none;
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-6139de6251171" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cdecdb4" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
     	
 <div id="home_content_88220650fb91c75e6e8692a9120c7ff0" class="home-content">
     <div class="row flex-v-align flex-direction-reverse">
@@ -696,7 +694,7 @@ display: none;
                                 <h1>Construo estratégias de marca e campanhas online que vendem mais, a mais pessoas, por mais dinheiro.</h1>
                 <p>Freelancer de Marketing Digital para pequenas empresas ambiciosas</p>
                                    <div class="home-buttons">
-                                            <a href="/contacto/" target="_self" id="bfaeb2fe5a47d82471d89bd39d1b95c6" class="btn btn-primary">PEDIR PROPOSTA</a>
+                                            <a href="#formlp" target="_self" id="bfaeb2fe5a47d82471d89bd39d1b95c6" class="btn btn-primary">PEDIR PROPOSTA</a>
                                         </div>
                                 </div>
         </div>
@@ -712,7 +710,7 @@ display: none;
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-6139de6251428" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cdecfeb" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
     	
 <div class="block-title">
     <h2>+100.000€ em investimentos geridos</h2>
@@ -722,12 +720,12 @@ display: none;
 
 			<div class="client-block">
 			
-								<img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://filipevilaca.pt/wp-content/uploads/2021/06/logo-empresa-limpeza-marketing-1.png" alt="Brilhoprincesa">
+								<img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="/wp-content/uploads/2021/06/logo-empresa-limpeza-marketing-1.png" alt="Brilhoprincesa">
 
 					</div>
 			<div class="client-block">
 			
-								<img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://filipevilaca.pt/wp-content/uploads/2021/06/logo-alarmes-marketing.png" alt="Intervenção Eficaz">
+								<img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="/wp-content/uploads/2021/06/logo-alarmes-marketing.png" alt="Intervenção Eficaz">
 
 					</div>
 	
@@ -741,7 +739,7 @@ display: none;
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-6139de625167f" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cded1d0" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
     	
 <div class="block-title">
     <h2>As pequenas empresas também merecem ter marketing de excelência</h2>
@@ -760,7 +758,7 @@ display: none;
 <li>
 <strong>Procura atrair novos clientes</strong> para o seu espaço físico.</li>
 </ol>
-<p>Se estiver numa destas situações, está no lugar certo. <a href="/contacto/">Fale já comigo.</a></p>	</div>
+<p>Se estiver numa destas situações, está no lugar certo.</p>	</div>
 </div>
 </div>
 
@@ -768,9 +766,9 @@ display: none;
 	
 
 <div class=" col-xs-12 col-sm-4 ">
-    <div id="col_inner_id-6139de62517e2" class="fw-col-inner" data-paddings="20px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cded302" class="fw-col-inner" data-paddings="20px 0px 0px 0px">
     	
-<div id="info-list-6139de62518c4" class="info-list-w-icon">
+<div id="info-list-6139e5cded3c5" class="info-list-w-icon">
 	
 			<div class="info-block-w-icon">
 		    <div class="ci-icon">
@@ -787,9 +785,9 @@ display: none;
 
 
 <div class=" col-xs-12 col-sm-4 ">
-    <div id="col_inner_id-6139de6251926" class="fw-col-inner" data-paddings="20px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cded413" class="fw-col-inner" data-paddings="20px 0px 0px 0px">
     	
-<div id="info-list-6139de625195e" class="info-list-w-icon">
+<div id="info-list-6139e5cded442" class="info-list-w-icon">
 	
 			<div class="info-block-w-icon">
 		    <div class="ci-icon">
@@ -806,9 +804,9 @@ display: none;
 
 
 <div class=" col-xs-12 col-sm-4 ">
-    <div id="col_inner_id-6139de62519ab" class="fw-col-inner" data-paddings="20px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cded481" class="fw-col-inner" data-paddings="20px 0px 0px 0px">
     	
-<div id="info-list-6139de62519df" class="info-list-w-icon">
+<div id="info-list-6139e5cded4ad" class="info-list-w-icon">
 	
 			<div class="info-block-w-icon">
 		    <div class="ci-icon">
@@ -828,7 +826,7 @@ display: none;
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-6139de6251ab7" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cded552" class="fw-col-inner" data-paddings="0px 0px 40px 0px">
     	
 	<div class="fw-divider-space" style="padding-top: 20px;"></div>
 
@@ -838,30 +836,7 @@ display: none;
 <p>Se a sua solução de marketing digital não estiver à altura, poderá afetar o seu negócio e os seus lucros. Porquê contratar um especialista para retificar algo quando se pode acertar na primeira vez?</p>
 <p><strong>Ao longo dos anos geri milhares de euros em investimento em praticamente todos os sentidos possíveis</strong>, como freelancer de marketing digital especializei-me em <strong>Marketing de Performance</strong>. Tenho experiência na realização de projetos de sucesso para micro e pequenas empresas. Colaborando de forma direta ou subcontratado. Conto com diversas formações e uma Pós-Graduação em Marketing Digital pela Universidade Lusófona do Porto.</p>
 <p>Prezo a análise de dados e acredito que suposições deve ser postas à prova ou deitadas fora. Tenho uma metodologia orientada para os resultados. Sinto-me confortável com os testes e experiências a fim de encontrar o caminho mais rentável. Há sempre algo a melhorar.</p>
-<p>Sou curioso, autónomo, pragmático e feliz por gerir eu próprio o projeto ou colaborar com uma equipa. Aspiro ser o seu parceiro no seu projeto a longo prazo, do planeamento à otimização. Se quiser saber mais sobre mim, clique <a href="/sobre/">aqui</a>.</p>	</div>
-</div>
-</div>
-
-<div class="row">
-	
-
-<div class=" col-xs-12 col-sm-4 ">
-    <div id="col_inner_id-6139de6251c18" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
-    		</div>
-</div>
-
-
-<div class=" col-xs-12 col-sm-4 ">
-    <div id="col_inner_id-6139de6251c45" class="fw-col-inner" data-paddings="30px 0px 50px 0px">
-    	<div class="fw-heading fw-heading-h2 fw-heading-center">
-		<h2 class="fw-special-title">Não atrase o seu crescimento. </h2>	</div>
-<a href="/contacto/" target="_self" id="button_fe8a708db5dc67593a0e0c2572b6acb0" class="btn btn-primary" data-mtop="0" data-mbottom="0">PEDIR PROPOSTA</a>	</div>
-</div>
-
-
-<div class=" col-xs-12 col-sm-4 ">
-    <div id="col_inner_id-6139de6251dc9" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
-    		</div>
+<p>Sou curioso, autónomo, pragmático e feliz por gerir eu próprio o projeto ou colaborar com uma equipa. Aspiro ser o seu parceiro no seu projeto a longo prazo, do planeamento à otimização.</p>	</div>
 </div>
 </div>
 
@@ -869,85 +844,136 @@ display: none;
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-6139de6251e6c" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-6139e5cded65a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
     	
 <div class="block-title">
-    <h2>Blog</h2>
+    <h2 id="formlp">Não atrase o seu crescimento.</h2>
+</div>
+	</div>
+</div>
 </div>
 
-<div class="blog-masonry two-columns clearfix">
-                            <!-- Blog Post 2179 -->
-                        <div class="item post-2179">
-                          <div class="blog-card">
-                            <div class="media-block">
-                                <div class="category">
-                                    <a href="/category/google-ads/" title="View all posts in Google Ads">Google Ads</a> <a href="/category/seo/" title="View all posts in SEO">SEO</a> <a href="/category/wordpress/" title="View all posts in Wordpress">Wordpress</a>                                </div>
-                                <a href="/como-colocar-a-tua-empresa-no-google/">
-                                                                                                                        <img width="560" height="315" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20560%20315'%3E%3C/svg%3E" data-src="https://filipevilaca.pt/wp-content/uploads/2021/09/comocolocarempresagoogle.png" class="attachment-blog-masonry-image-two-c size-blog-masonry-image-two-c wp-post-image lazy" alt="Como colocar a tua empresa no Google" loading="lazy" title="" data-srcset="https://filipevilaca.pt/wp-content/uploads/2021/09/comocolocarempresagoogle.png 560w, https://filipevilaca.pt/wp-content/uploads/2021/09/comocolocarempresagoogle-300x169.png 300w" data-sizes="(max-width: 768px) 92vw, (max-width: 992px) 450px, (max-width: 1200px) 597px, 40vw">                                                                                    <div class="mask"></div>
-                                </a>
-                            </div>
-                            <div class="post-info">
-                                <div class="post-date">03 Set 2021</div>
-                                <a href="/como-colocar-a-tua-empresa-no-google/"><h4 class="blog-item-title">Como colocar a tua empresa no Google</h4></a>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- End of Blog Post 2179 -->
-                                            <!-- Blog Post 2163 -->
-                        <div class="item post-2163">
-                          <div class="blog-card">
-                            <div class="media-block">
-                                <div class="category">
-                                    <a href="/category/brand-building/" title="View all posts in Brand Building">Brand Building</a> <a href="/category/estrategia-de-marketing/" title="View all posts in Estratégia de marketing">Estratégia de marketing</a>                                </div>
-                                <a href="/como-calcular-a-quota-de-mercado-novo-metodo-gratis-e-eficaz/">
-                                                                                                                        <img width="560" height="315" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20560%20315'%3E%3C/svg%3E" data-src="https://filipevilaca.pt/wp-content/uploads/2021/08/Como-calcular-a-quota-de-mercado.png" class="attachment-blog-masonry-image-two-c size-blog-masonry-image-two-c wp-post-image lazy" alt="Como calcular a quota de mercado? Novo método grátis e eficaz" loading="lazy" title="" data-srcset="https://filipevilaca.pt/wp-content/uploads/2021/08/Como-calcular-a-quota-de-mercado.png 560w, https://filipevilaca.pt/wp-content/uploads/2021/08/Como-calcular-a-quota-de-mercado-300x169.png 300w" data-sizes="(max-width: 768px) 92vw, (max-width: 992px) 450px, (max-width: 1200px) 597px, 40vw">                                                                                    <div class="mask"></div>
-                                </a>
-                            </div>
-                            <div class="post-info">
-                                <div class="post-date">19 Ago 2021</div>
-                                <a href="/como-calcular-a-quota-de-mercado-novo-metodo-gratis-e-eficaz/"><h4 class="blog-item-title">Como calcular a quota de mercado? Novo método grátis e eficaz</h4></a>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- End of Blog Post 2163 -->
-                                            <!-- Blog Post 2070 -->
-                        <div class="item post-2070">
-                          <div class="blog-card">
-                            <div class="media-block">
-                                <div class="category">
-                                    <a href="/category/brand-building/" title="View all posts in Brand Building">Brand Building</a> <a href="/category/estrategia-de-marketing/" title="View all posts in Estratégia de marketing">Estratégia de marketing</a>                                </div>
-                                <a href="/brand-building-o-que-e-qual-a-sua-importancia/">
-                                                                                                                        <img width="560" height="315" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20560%20315'%3E%3C/svg%3E" data-src="https://filipevilaca.pt/wp-content/uploads/2021/08/brand-building1.png" class="attachment-blog-masonry-image-two-c size-blog-masonry-image-two-c wp-post-image lazy" alt="Brand Building: O que é? Qual a sua importância?" loading="lazy" title="" data-srcset="https://filipevilaca.pt/wp-content/uploads/2021/08/brand-building1.png 560w, https://filipevilaca.pt/wp-content/uploads/2021/08/brand-building1-300x169.png 300w" data-sizes="(max-width: 768px) 92vw, (max-width: 992px) 450px, (max-width: 1200px) 597px, 40vw">                                                                                    <div class="mask"></div>
-                                </a>
-                            </div>
-                            <div class="post-info">
-                                <div class="post-date">05 Ago 2021</div>
-                                <a href="/brand-building-o-que-e-qual-a-sua-importancia/"><h4 class="blog-item-title">Brand Building: O que é? Qual a sua importância?</h4></a>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- End of Blog Post 2070 -->
-                                            <!-- Blog Post 1849 -->
-                        <div class="item post-1849">
-                          <div class="blog-card">
-                            <div class="media-block">
-                                <div class="category">
-                                    <a href="/category/wordpress/" title="View all posts in Wordpress">Wordpress</a>                                </div>
-                                <a href="/como-instalar-wordpress-no-pc/">
-                                                                                                                        <img width="560" height="315" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20560%20315'%3E%3C/svg%3E" data-src="https://filipevilaca.pt/wp-content/uploads/2021/06/Instalar-Wordpress-no-PC.png" class="attachment-blog-masonry-image-two-c size-blog-masonry-image-two-c wp-post-image lazy" alt="Como instalar o WordPress localmente no PC em 3 etapas simples" loading="lazy" title="" data-srcset="https://filipevilaca.pt/wp-content/uploads/2021/06/Instalar-Wordpress-no-PC.png 560w, https://filipevilaca.pt/wp-content/uploads/2021/06/Instalar-Wordpress-no-PC-300x169.png 300w" data-sizes="(max-width: 768px) 92vw, (max-width: 992px) 450px, (max-width: 1200px) 597px, 40vw">                                                                                    <div class="mask"></div>
-                                </a>
-                            </div>
-                            <div class="post-info">
-                                <div class="post-date">21 Jul 2021</div>
-                                <a href="/como-instalar-wordpress-no-pc/"><h4 class="blog-item-title">Como instalar o WordPress localmente no PC em 3 etapas simples</h4></a>
-                            </div>
-                          </div>
-                        </div>
-                        <!-- End of Blog Post 1849 -->
-                    </div>
+<div class="row">
+	
 
-                    <a class="btn btn-primary" href="/blog/">See All Posts</a>
-                	</div>
+<div class=" col-xs-12 col-sm-4 ">
+    <div id="col_inner_id-6139e5cded735" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div id="info-list-6139e5cded761" class="info-list-w-icon">
+	
+			<div class="info-block-w-icon">
+		    <div class="ci-icon">
+		        		        	                        <i class="linecons linecons-location"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Penafiel</h4>
+		        		        <p>Se não estiver por perto, não se preocupe. O Zoom/Skype pode levar-nos a qualquer lugar.</p>
+		        		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-8 formlp">
+    <div id="col_inner_id-6139e5cded7a4" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+	<div class="block-title">
+		<h3>Respondo em 24 horas úteis. </h3>
+	</div>
+
+<form id="contact_form_6139e5cded8f5" class="contact-form" action="#" method="post">
+
+	<div class="messages"></div>
+
+	<div class="controls">
+
+		
+			
+			<div class="form-group">
+							<input type="text" name="cf_field[]" class="form-control" placeholder="Nome" required="required" data-error="">
+							<div class="form-control-border"></div>
+							<div class="help-block with-errors"></div>
+			</div>
+
+
+		
+			
+			<div class="form-group">
+							<input type="tel" name="cf_field[]" class="form-control" placeholder="Telemóvel" required="required" data-error="">
+							<div class="form-control-border"></div>
+							<div class="help-block with-errors"></div>
+			</div>
+
+
+		
+			
+			<div class="form-group">
+							<input type="email" name="cf_field[]" class="form-control" placeholder="Email" required="required" data-error="">
+							<div class="form-control-border"></div>
+							<div class="help-block with-errors"></div>
+			</div>
+
+
+		
+			
+			<div class="form-group">
+							<textarea name="cf_field[]" class="form-control" placeholder="Como posso ajudar?" rows="4" required="required" data-error=""></textarea>
+							<div class="form-control-border"></div>
+							<div class="help-block with-errors"></div>
+			</div>
+
+
+		
+
+
+										<div class="g-recaptcha" data-sitekey="6LdqmCAUAAAAAMMNEZvn6g4W5e0or2sZmAVpxVqI"></div>
+				
+		<input type="submit" class="button btn-send" value="Pedir Proposta">
+	</div>
+</form>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6139e5cded997" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    		<div class="fw-divider-line"><hr></div>
+
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-4 ">
+    <div id="col_inner_id-6139e5cdeda73" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    		</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-4 ">
+    <div id="col_inner_id-6139e5cdeda98" class="fw-col-inner" data-paddings="20px 0px 20px 0px">
+    	
+    
+        <div id="#single_image_951d7b35776c671881a93f570c61e696" class="single-image ">
+            <span class="single-image-wrap">
+                <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="/wp-content/uploads/2021/05/horizontal-2000px.png" alt="freelancer de marketing digital">
+            </span>
+        </div>
+
+    
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-4 ">
+    <div id="col_inner_id-6139e5cdedbc2" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    		</div>
 </div>
 </div>
 
@@ -1022,7 +1048,7 @@ display: none;
 
 <script type="text/javascript" id="contact-form-7-js-extra">
 /* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/filipevilaca.pt\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+var wpcf7 = {"api":{"root":"\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
 
@@ -1037,16 +1063,16 @@ var wpcf7 = {"api":{"root":"https:\/\/filipevilaca.pt\/wp-json\/","namespace":"c
 <script src="/wp-content/cache/minify/4b808.js"></script>
 
 <script type="text/javascript" id="leven-jquery-main-js-after">
-var ajaxurl = "https://filipevilaca.pt/wp-admin/admin-ajax.php";
+var ajaxurl = "/wp-admin/admin-ajax.php";
 </script>
 
 
 
 
 
+<script src="/wp-content/cache/minify/102cb.js"></script>
 
-<script src="/wp-content/cache/minify/18dcf.js"></script>
-
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?ver=2.0" id="js-recaptcha-js"></script>
 <script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="/wp-content/cache/minify/1615d.js"></script>
 </body>
 
@@ -1058,6 +1084,6 @@ Lazy Loading
 Minified using disk
 Database Caching using disk
 
-Served from: filipevilaca.pt @ 2021-09-09 10:13:54 by W3 Total Cache
+Served from: filipevilaca.pt @ 2021-09-09 10:45:33 by W3 Total Cache
 -->
 </html>
