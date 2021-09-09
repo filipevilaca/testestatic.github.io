@@ -631,28 +631,6 @@ display: none;
                 <!-- /Text Logo -->
                 
 
-                <!-- Navigation -->
-                <div class="site-nav mobile-menu-hide">
-                    <ul id="menu-menu" class="leven-classic-menu site-main-menu">
-<li id="menu-item-1257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1257"><a href="/" data-hover="1">Início</a></li>
-<li id="menu-item-1652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1652"><a href="/sobre/" data-hover="1">Sobre</a></li>
-<li id="menu-item-1650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1650"><a href="/criacao-de-sites-no-porto/" data-hover="1">Criação de Sites no Porto</a></li>
-<li id="menu-item-1258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1258">
-<a href="/blog" data-hover="1">Blog</a>
-<ul class="sub-menu">
-	<li id="menu-item-2062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2062"><a href="/category/estrategia-de-marketing/" data-hover="1">Estratégia de marketing</a></li>
-	<li id="menu-item-2063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2063"><a href="/category/redes-sociais/" data-hover="1">Redes Sociais</a></li>
-	<li id="menu-item-2064" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2064"><a href="/category/wordpress/" data-hover="1">WordPress</a></li>
-	<li id="menu-item-2065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2065"><a href="/category/email-marketing/" data-hover="1">Email Marketing</a></li>
-	<li id="menu-item-2066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2066"><a href="/category/facebook-ads/" data-hover="1">Facebook Ads</a></li>
-	<li id="menu-item-2067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2067"><a href="/category/google-ads/" data-hover="1">Google Ads</a></li>
-	<li id="menu-item-2223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2223"><a href="/category/seo/" data-hover="1">SEO</a></li>
-	<li id="menu-item-2068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2068"><a href="/category/opiniao/" data-hover="1">Opinião</a></li>
-</ul>
-</li>
-<li id="menu-item-1651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651"><a href="/contacto/" data-hover="1">Fale Comigo</a></li>
-</ul>                </div>
-
                 <a class="menu-toggle mobile-visible">
                     <i class="fa fa-bars"></i>
                 </a>
