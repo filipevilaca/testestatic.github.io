@@ -614,29 +614,6 @@ display: none;
 <div class="page-scroll">
     <div id="page_container" class="page-container full-width-container theme-style-light" data-animation="transition-flip-in-right">
 
-        <!-- Header -->
-        <header id="site_header" class="header">
-            <div class="header-content clearfix">
-                                <div class="header-image">
-                    <a href="/">
-                        <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="/wp-content/uploads/2021/05/logo1.png" alt="logo freelance de marketing digital">
-                    </a>
-                </div>
-                
-                                <!-- Text Logo -->
-                <div class="text-logo">
-                    <a href="/">
-                                                                     </a>
-                </div>
-                <!-- /Text Logo -->
-                
-
-                <a class="menu-toggle mobile-visible">
-                    <i class="fa fa-bars"></i>
-                </a>
-            </div>
-        </header>
-        <!-- /Header -->
 <div id="main" class="site-main">
     <div id="main-content" class="single-page-content">
         <div id="primary" class="content-area">
